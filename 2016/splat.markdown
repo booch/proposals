@@ -96,5 +96,5 @@ can be heard talking about process, code, and trust.
 Amos started using Ruby in 2005 just to be different than his coworker.
 He found the language and community both warm and inviting.
 
-When Amos isn't coding he loves hanging out with his five children,
-playing ukulele, making beer, and roasting coffee.
+When not coding Amos is hanging out with his five children, playing
+ukulele, or coaching robotics.
