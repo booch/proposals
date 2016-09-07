@@ -14,8 +14,8 @@ that is rivaled by few. The more we learn about the language the
 deeper our love becomes. Some areas of Ruby are underutilized
 outside of the very seasoned. Learning one of these corners can
 open up a whole new world of ideas. Let's dive into one corner and
-learn how we can utilize some basic pattern matching found in other
-languages. You just might change some of your current code.
+learn how we can utilize some basic pattern matching like that found
+in other languages. You just might change some of your current code.
 
 Details (outlines, outcomes, intended audience, etc.)
 -------
