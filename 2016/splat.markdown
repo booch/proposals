@@ -88,7 +88,7 @@ me so much.
 Bio
 ---
 
-Amos is a freelance consultant under the name Binary Noggin. He joins
+Amos is a freelance consultant and owner of Binary Noggin. He joins
 teams as a developer to help improve process and tech skills. He
 is a host on [This Agile Life](http://thisagilelife.com) where he
 discusses process, code, and trust.
