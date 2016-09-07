@@ -89,13 +89,12 @@ Bio
 ---
 
 Amos is a freelance consultant under the name Binary Noggin. He joins
-teams as a developer trying to help improve process and technical
-skills. He is a host on the [This Agile Life](http://thisagilelife.com)
-where he can be heard talking about process, code, and trust.
+teams as a developer to help improve process and technical skills. He
+is a host on the [This Agile Life](http://thisagilelife.com) where he
+can be heard talking about process, code, and trust.
 
 Amos started using Ruby in 2005 just to be different than his coworker.
-What he found was a lovely language and community that both feel warm
-and inviting.
+He found the language and community both warm and inviting.
 
 When Amos isn't coding he loves hanging out with his five children,
 playing ukulele, making beer, and roasting coffee.
