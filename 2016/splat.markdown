@@ -1,7 +1,8 @@
 We Can Splat if we Want to
 ==========================
 
-Track: General
+Track: Weird Ruby
+
 Audience: Beginner/Intermediate
 
 
